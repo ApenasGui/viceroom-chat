@@ -1,0 +1,26 @@
+node_modules/
+.expo/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+
+# Instruções locais de agentes
+[Aa][Gg][Ee][Nn][Tt][Ss].[Mm][Dd]
+[Aa][Gg][Ee][Nn][Ss].[Mm][Dd]
+.agents/
+.codex/
+.aws/
+
+# Credenciais e chaves privadas
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+*.jks
+.npmrc
+.netrc
+.DS_Store
